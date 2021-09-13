@@ -1,0 +1,23 @@
+{"streets":[
+    {"street_name": "St.1", "p1x":-129, "p1y":-50, "p2x":-167, "p2y":-215, "stations":[{"station_name": "1", "location":0.3}]},
+    {"street_name": "St.2", "p1x":-167, "p1y":-215, "p2x":-385.6, "p2y":-214.4, "stations":[{"station_name": "2", "location":0.6}]},
+    {"street_name": "St.3", "p1x":-385.6, "p1y":-214.4, "p2x":-552, "p2y":-47.2, "stations":[{"station_name": "3", "location":0.2}]},
+    {"street_name": "St.4", "p1x":-552, "p1y":-47.2, "p2x":-400.8, "p2y":116.8, "stations":[{"station_name": "4", "location":0.8}]},
+    {"street_name": "St.5", "p1x":-400.8, "p1y":116.8, "p2x":-129, "p2y":-50, "stations":[{"station_name": "5", "location":0.5}]},
+    {"street_name": "St.6", "p1x":-129, "p1y":-50, "p2x":156.8, "p2y":-10.4, "stations":[{"station_name": "6", "location":0.8}]},
+    {"street_name": "St.7", "p1x":156.8, "p1y":-10.4, "p2x":280, "p2y":-184, "stations":[{"station_name": "7", "location":0.5}]},
+    {"street_name": "St.8", "p1x":280, "p1y":-184, "p2x":124.8, "p2y":-372, "stations":[{"station_name": "8", "location":0.4}]},
+    {"street_name": "St.9", "p1x":124.8, "p1y":-372, "p2x":-121.6, "p2y":-390.4, "stations":[{"station_name": "9", "location":0.5}]},
+    {"street_name": "St.10", "p1x":-121.6, "p1y":-390.4, "p2x":-256, "p2y":-296, "stations":[{"station_name": "10", "location":0.5}]},
+    {"street_name": "St.11", "p1x":-256, "p1y":-296, "p2x":-309.6, "p2y":-430.4, "stations":[{"station_name": "11", "location":0.5}]},
+    {"street_name": "St.12", "p1x":-309.6, "p1y":-430.4, "p2x":-385.6, "p2y":-214.4, "stations":[{"station_name": "12", "location":0.5}]},
+    {"street_name": "St.13", "p1x":124.8, "p1y":-372, "p2x":-167, "p2y":-215, "stations":[{"station_name": "13", "location":0.8}]},
+    {"street_name": "St.14", "p1x":-309.6, "p1y":-430.4, "p2x":-622.4, "p2y":-396.8, "stations":[{"station_name": "14", "location":0.5}]},
+    {"street_name": "St.15", "p1x":-622.4, "p1y":-396.8, "p2x":-789.6, "p2y":-240, "stations":[{"station_name": "15", "location":0.5}]},
+    {"street_name": "St.16", "p1x":-789.6, "p1y":-240, "p2x":-552, "p2y":-47.2, "stations":[{"station_name": "16", "location":0.5}]},
+    {"street_name": "St.17", "p1x":-789.6, "p1y":-240, "p2x":-790.4, "p2y":40.8, "stations":[{"station_name": "17", "location":0.5}]},
+    {"street_name": "St.18", "p1x":-790.4, "p1y":40.8, "p2x":-384.8, "p2y":276, "stations":[{"station_name": "18", "location":0.5}]},
+    {"street_name": "St.19", "p1x":-384.8, "p1y":276, "p2x":-400.8, "p2y":116.8, "stations":[{"station_name": "19", "location":0.5}]},
+    {"street_name": "St.20", "p1x":-384.8, "p1y":276, "p2x":-39.2, "p2y":248, "stations":[{"station_name": "20", "location":0.5}]},
+    {"street_name": "St.21", "p1x":-39.2, "p1y":248, "p2x":156.8, "p2y":-10.4, "stations":[{"station_name": "21", "location":0.5}]}
+]}
